@@ -94,8 +94,6 @@ public class ContactManagement implements IGeneralManagement<Contact> {
         for (Contact contact : contacts) {
             if (contact.getPhoneNumber().equals(phoneNumber)) {
                 System.out.println(contact);
-            } else {
-                System.out.println("Không tìm thấy số điện thoại này !!!");
             }
         }
     }

@@ -146,6 +146,6 @@ public class ContactMenu {
         System.out.println("5. Tìm kiếm");
         System.out.println("6. Đọc từ file");
         System.out.println("7. Ghi vào file");
-        System.out.println("8. Đóng chương trình ");
+        System.out.println("0. Đóng chương trình ");
     }
 }
